@@ -9,8 +9,6 @@
 
 ✨ A community-driven organization for building Spring-based integrations with AI models, agents, vector databases, and more.
 
-<img src="https://github.com/spring-ai-community/.github/assets/logo-placeholder.png" width="160" alt="Spring AI Community logo">
-
 ---
 
 ## 📚 Useful links
