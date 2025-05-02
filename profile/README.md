@@ -16,7 +16,7 @@
 - 📖 [Spring AI Community Wiki](https://github.com/spring-ai-community/community/wiki)  
 - 🧠 [About the community repository](https://github.com/spring-ai-community/community)  
 - 🛠 [Spring AI Project (upstream)](https://github.com/spring-projects/spring-ai)
-
+- 🐦 Twitter: [@SpringAICentral](https://twitter.com/SpringAICentral)
 ---
 
 ## 🗳️ Want to propose a new project?
