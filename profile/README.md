@@ -1,9 +1,10 @@
 # Spring AI Community
 
 <!-- start organization badges -->
-![Projects](https://img.shields.io/static/v1?label=Projects&message=Spring+AI+Integrations&color=green)
-![Members](https://img.shields.io/github/orgs/spring-ai-community/people?label=Members)
-![Created](https://img.shields.io/github/created-date/spring-ai-community?color=blue)
+![Total repositories](https://img.shields.io/static/v1?label=Total%20repositories&message=5&color=blue)
+![Open PRs in last 30 days](https://img.shields.io/static/v1?label=Open%20PRs%20in%20last%2030%20days&message=3&color=blue)
+![Merged PRs in last 30 days](https://img.shields.io/static/v1?label=Merged%20PRs%20in%20last%2030%20days&message=2&color=blue)
+
 <!-- end organization badges -->
 
 ✨ A community-driven organization for building Spring-based integrations with AI models, agents, vector databases, and more.
