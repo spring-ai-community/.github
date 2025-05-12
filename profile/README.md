@@ -24,7 +24,7 @@
 We're always looking to support new integrations and community needs.  
 To propose a new subproject or integration:
 
-➡️ [Create a new issue in the `community` repository](https://github.com/spring-ai-community/community/issues/new?template=new-project-request.md)
+➡️ [Create a new issue in the `community` repository](https://github.com/spring-ai-community/community/issues)
 
 ---
 
