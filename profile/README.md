@@ -17,6 +17,7 @@
 - 🧠 [About the community repository](https://github.com/spring-ai-community/community)  
 - 🛠 [Spring AI Project (upstream)](https://github.com/spring-projects/spring-ai)
 - 🐦 Twitter: [@SpringAICentral](https://twitter.com/SpringAICentral)
+- ☁️ Bluesky: [spring-ai.bsky.social](https://bsky.app/profile/spring-ai.bsky.social)
 ---
 
 ## 🗳️ Want to propose a new project?
