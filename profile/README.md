@@ -32,7 +32,7 @@ To propose a new subproject or integration:
 ## 📦 Featured Projects
 - [`awesome-spring-ai`](https://github.com/spring-ai-community/awesome-spring-ai) - Collection of online resources for Spring AI
 - [`spring-ai-vaadin`](https://github.com/spring-ai-community/spring-ai-vaadin) — LLM chat UI using Vaadin
-- ['spring-ai-watsonx-ai](https://github.com/spring-ai-community/spring-ai-watsonx-ai) - Support for watsonx.ai SaaS
+- [`spring-ai-watsonx-ai`](https://github.com/spring-ai-community/spring-ai-watsonx-ai) - Support for watsonx.ai SaaS
 - [`moonshot`](https://github.com/spring-ai-community/moonshot) — Support for Moonshot AI
 - [`qianfan`](https://github.com/spring-ai-community/qianfan) — Support for Baidu Qianfan models
 - [`community`](https://github.com/spring-ai-community/community) — Meta repo for planning, proposals, and discussions
